@@ -1,5 +1,9 @@
 # Jot
 
+## DEPRECATED! PLEASE SEE [Apostrophe](http://github.com/punkave/apostrophe)
+
+Jot evolved into the core of Apostrophe 2. The Jot name has been retired. Repository kept for now for historical interest.
+
 Jot is a rich content and rich text editor. In addition to rich text, jot allows you to add rich media to documents. Jot also includes simple facilities for storing your rich content areas in MongoDB and fetching them back again.
 
 [You can try a live demo of the Jot Wiki sample app here.](http://jotwiki.boutell.com/) (Note: the demo site resets at the top of the hour.)
